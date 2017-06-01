@@ -1,0 +1,42 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 Ti OEM (ID=0x1189)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   9.18.13.4752
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Area51Student\Documents\temp\2D Programming\First Project\base_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Area51Student\Documents\temp\2D Programming\First Project\base_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Area51Student\Documents\temp\2D Programming\First Project\base_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Area51Student\Documents\temp\2D Programming\First Project\base_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Area51Student\Documents\temp\2D Programming\First Project\base_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Area51Student\Documents\temp\2D Programming\First Project\base_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Area51Student\Documents\temp\2D Programming\First Project\base_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Area51Student\Documents\temp\2D Programming\First Project\base_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\Area51Student\Documents\temp\2D Programming\First Project\base_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Area51Student\Documents\temp\2D Programming\First Project\base_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.903378 ms
+I Have Awaken
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activating Systems
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Let's Get Started!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 518 -> priority: 1 
+  Thread -> id: 27c8 -> priority: 1 
+  Thread -> id: 25dc -> priority: 1 
+  Thread -> id: 24f0 -> priority: 1 
